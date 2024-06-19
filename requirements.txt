@@ -1,1 +1,2 @@
 github3.py==0.9.3
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
